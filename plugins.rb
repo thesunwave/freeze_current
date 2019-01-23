@@ -1,0 +1,1 @@
+require 'freeze_current'
